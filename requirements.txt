@@ -1,0 +1,5 @@
+numpy==1.25.0
+pyglet==2.0.8
+pyrender==0.1.45
+transforms3d==0.4.1
+trimesh==3.22.5
